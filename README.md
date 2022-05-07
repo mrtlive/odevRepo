@@ -1,1 +1,3 @@
 # odevRepo
+
+kodluyoruz ilk repo
